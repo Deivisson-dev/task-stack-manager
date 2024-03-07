@@ -1,5 +1,5 @@
 ### Título do Projeto:
-`StackTaskManager`
+`task-stack-manager`
 
 ### Descrição para o GitHub:
 
@@ -7,11 +7,11 @@
 
 ## StackTaskManager: A Stack-Based Task Management System
 
-Welcome to `StackTaskManager` – a minimalist task management tool built to demonstrate the practical application of stack data structures in real-world software development. This project was developed as part of a Data Structures course, aiming to illustrate the fundamental operations of stacks, such as push, pop, and peek, through the lens of task management.
+Welcome to `task-stack-manager` – a minimalist task management tool built to demonstrate the practical application of stack data structures in real-world software development. This project was developed as part of a Data Structures course, aiming to illustrate the fundamental operations of stacks, such as push, pop, and peek, through the lens of task management.
 
 ### Project Overview
 
-`StackTaskManager` offers a simple yet effective way to manage your daily tasks. Utilizing the Last-In-First-Out (LIFO) principle inherent to stacks, this application allows users to add, view, and remove tasks in a way that ensures the most recently added task is always addressed first. Whether you're juggling school assignments, work projects, or personal chores, `StackTaskManager` helps keep your priorities in check.
+`task-stack-manager` offers a simple yet effective way to manage your daily tasks. Utilizing the Last-In-First-Out (LIFO) principle inherent to stacks, this application allows users to add, view, and remove tasks in a way that ensures the most recently added task is always addressed first. Whether you're juggling school assignments, work projects, or personal chores, `task-stack-manager` helps keep your priorities in check.
 
 ### Features
 
@@ -31,9 +31,9 @@ Welcome to `StackTaskManager` – a minimalist task management tool built to dem
 Clone the repository, navigate to the project directory, and run the script using Python:
 
 ```bash
-git clone https://github.com/yourusername/StackTaskManager.git
-cd StackTaskManager
-python stack_task_manager.py
+git clone https://github.com/yourusername/task-stack-manager.git
+cd task-stack-manager
+python main.py
 ```
 
 Follow the on-screen prompts to manage your tasks.
@@ -44,7 +44,7 @@ This project serves as a hands-on exercise for students and enthusiasts looking 
 
 ### Contribution
 
-Feel free to fork the project, submit issues, and contribute to improving `StackTaskManager`. Your insights and improvements are what make open-source projects thrive and evolve.
+Feel free to fork the project, submit issues, and contribute to improving `task-stack-manager`. Your insights and improvements are what make open-source projects thrive and evolve.
 
 ---
 
